@@ -17,11 +17,11 @@
   </a>
 
  <a href="https://www.github.com/algomaxai//">
-    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Desights AI's Github Org" height="30" width="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Algomax AI's Github Org" height="30" width="30">
   </a>
 
   <a href="https://discord.gg/enZFdaFMpN">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Desights AI's Discord Server" height="30" width="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Algomax AI's Discord Server" height="30" width="30">
   </a>
 
 </p>
