@@ -8,7 +8,7 @@
 
 
 ### Hey there! 👋 Nice to see you. At Algomax, We are building the Decentralised Bots Economy.
-### We are currenlty building in stealth.
+### We are currently building in stealth.
 #### If you would like to know more and be part of this revolution, join our socials 👇
 <p align="left">
 
