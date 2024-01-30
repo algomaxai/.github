@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-<img width="1200" alt="algomax-banner" src="<img width="1437" alt="image" src="https://github.com/algomaxai/.github/assets/7534044/6c17a39f-d64f-42e5-b78b-f278453f561c">
-">
+<img width="1200" alt="algomax-banner" src="https://github.com/algomaxai/.github/assets/7534044/6c17a39f-d64f-42e5-b78b-f278453f561c">
+
 
 
 
