@@ -7,7 +7,6 @@
 
 
 
-
 ### Hey there! 👋 Nice to see you. At Algomax, We are building a decentralised network of Smart Services driven by AI-Compatible Autonomous Agents and secured by ZK-Proofs.
 ### We are currently building in stealth.
 #### We invite you to be part of this amazing fast growing community 🤗. Please join our socials 👇
